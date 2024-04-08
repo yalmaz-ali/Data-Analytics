@@ -34,12 +34,7 @@ git clone https://github.com/yalmaz-ali/Data-Analytics.git
 cd Data-Analytics
 ```
 
-3. Install the required Python Libraries:
-```shell
-pip install -r requirements.txt
-```
-
-4. Usage:
+3. Usage:
   - Launch Jupyter Notebook:
   ```shell
   jupyter notebook
